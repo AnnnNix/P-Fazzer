@@ -22,7 +22,7 @@
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourname/sensitive-file-checker
+   git clone https://github.com/AnnnNix/P-Fazzer/tree/main
    ```
 2. Open Firefox and go to:
    ```
