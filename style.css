@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background: linear-gradient(135deg, #202430, #34364e);
+  color: #fff;
+  padding: 10px;
+  min-width: 260px;
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#history {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.entry {
+  background: rgba(255, 255, 255, 0.07);
+  margin-bottom: 6px;
+  padding: 6px;
+  border-radius: 5px;
+  font-size: 13px;
+}
+
+#controls {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
